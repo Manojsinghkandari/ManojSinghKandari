@@ -1,4 +1,4 @@
-### Hi there 👋![logo](https://github.com/Manojsinghkandari/ManojSinghKandari/blob/main/Manoj%20Singh%20Kandari.png)
+[logo](https://github.com/Manojsinghkandari/ManojSinghKandari/blob/main/Manoj%20Singh%20Kandari.png)
 <h1 align="center">Hi 👋, I'm Manoj Singh Kandari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
